@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-app"]=this["webpackJsonpmy-app"]||[]).push([[3],{50:function(e,s,t){"use strict";t.r(s);var b=t(0);s.default=function(e){return Object(b.jsx)("div",{className:"embed-responsive embed-responsive-16by9",children:Object(b.jsx)("iframe",{title:"Embedded Youtube Demonstration",className:"Embedded-youtube",src:"https://youtube.com/embed/brfiW2lZ9N4"})})}}}]);
+//# sourceMappingURL=3.a544b7c9.chunk.js.map
